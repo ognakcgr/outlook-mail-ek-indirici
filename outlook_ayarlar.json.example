@@ -1,0 +1,13 @@
+{
+  "download_folder": "C:/Users/<KULLANICI_ADI>/Downloads/Outlook_Ekler",
+  "subject_filter": "",
+  "to_filter": "",
+  "sender_filter": "",
+  "max_mails": 200,
+  "attachment_filter": "all",
+  "create_subfolders": true,
+  "open_folder_after": true,
+  "debug_mode": false,
+  "selected_folder_entry_id": "",
+  "selected_folder_name": "Gönderilenler (Varsayılan)"
+}
